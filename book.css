@@ -1,0 +1,323 @@
+.search{
+	width: 50%;
+}
+
+#navmenu ul li{
+	display: inline-block;
+}
+
+#navmenu ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+#navmenu{
+	line-height: 3rem;
+	/*background-color: #333;*/
+}
+
+#navmenu ul li a:hover{
+	color: white;
+	background-color: #ed4e26;
+	transition: 0s;
+}
+
+.slide1{
+	max-width: 100%;
+}
+
+.head1{
+	font-size: 2rem;
+	margin-top: 2.3rem;
+	font-weight: 500;
+	color: black;
+	font-family: Cooper black;    
+}
+
+.und1{
+	
+	text-align: center;
+	color: #ed4e26;
+	margin-top: -2rem;
+	font-weight: 700;
+	font-size: 1.5rem;
+}
+
+.und2{
+	
+	text-align: center;
+	color: #ed4e26;
+	margin-top: -2rem;
+	font-weight: 700;
+	font-size: 1.5rem;
+}
+
+.und3{
+	
+	text-align: center;
+	color: #ed4e26;
+	margin-top: -2rem;
+	font-weight: 700;
+	font-size: 1.5rem;
+}
+
+.und4{
+	
+	text-align: center;
+	color: #ed4e26;
+	margin-top: -2rem;
+	font-weight: 700;
+	font-size: 1.5rem;
+}
+
+.und5{
+	
+	text-align: center;
+	color: #ed4e26;
+	margin-top: -2rem;
+	font-weight: 700;
+	font-size: 1.5rem;
+}
+
+.und6{
+	
+	text-align: center;
+	color: #ed4e26;
+	margin-top: -2rem;
+	font-weight: 700;
+	font-size: 1.5rem;
+}
+
+.und7{
+	
+	text-align: center;
+	color: #ed4e26;
+	margin-top: -2rem;
+	font-weight: 700;
+	font-size: 1.5rem;
+}
+
+.und8{
+	text-align: center;
+	color: #ed4e26;
+	margin-top: -2rem;
+	font-weight: 700;
+	font-size: 1.5rem;
+}
+
+.divimg1{
+	margin-top: 2.5rem;
+	border-radius: 0.6rem;
+	transition: 1s;
+}
+
+.leftml{
+	margin-left: 1rem;
+}
+
+.img1{
+	max-width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0.7rem;
+}
+
+.img1:hover{
+	transform: scale(1.02);
+	transition-delay: 0.01s;	
+}
+
+.txt{
+	margin-left: -0.6rem;
+	margin-top: -0.6rem;
+	margin-bottom: -0.9rem;
+}
+
+#rupees{
+	color: #ff571e;
+	font-weight: 650;
+}
+
+.ad1 a img{
+	max-width: 100%;
+	margin-top: 3.5rem;
+}
+
+.add1{
+	background-color: #403535;
+}
+
+.bookl{
+	text-decoration: none;
+	color: black;
+}
+
+.bookl:hover{
+	text-decoration: none;
+	color: black;
+}
+
+
+.para1{
+	margin-top: 2.5rem;
+	margin-left: 6rem;
+	margin-right: 6rem;
+}
+
+.para2{
+	margin-top: 1.8rem;
+	margin-left: 6rem;
+	margin-right: 6rem;
+}
+
+.crd{
+	margin-top: -1rem;
+}
+
+.addbar{
+	margin-top: 5rem;
+}
+
+.callcol{
+	margin-top: -1rem;
+}
+
+.msgcol{
+	margin-top: -0.8rem;
+}
+
+.callcolimg{
+	margin-top: 1.5rem;
+}
+
+.msgcolimg{
+	margin-top: 1.7rem;
+}
+
+.backcolor{
+	background-color: rgba(0, 0, 0, 0.9)
+}
+
+.addbartxt{
+	color: white;
+	font-size: 0.9rem;
+}
+
+.addbarm{
+	margin-bottom: 0.8rem;
+}
+
+.copyrbar{
+	color: white;
+	background-color: black;
+	line-height: 0.8rem;
+}
+
+.btn-outline-primary{
+	width: 10%;
+	border-width: 0.1rem;
+	margin-top: 3.3rem;
+	font-size: 0.9rem;
+	font-family: 'Arial', sans-serif;
+	font-weight: 600;
+	border-radius: 0.5rem;
+	color: #ed4e26;
+	background-color: white;
+	border-color: #ed4e26;
+}
+
+.btn-outline-primary:hover{
+	color: white;
+	background-color: #ed4e26;
+	border-color: #ed4e26;
+}
+
+.margintop{
+	margin-top: 4rem;
+}
+
+.headofbook{
+	font-size: 1.5rem;
+	font-weight: 700;
+	font-family: 'Arial', sans-serif;
+}
+
+.headoft{
+	font-weight: 650;
+}
+
+.headoft1{
+	font-weight: 650;
+	line-height: 2.4rem;
+}
+
+.margintop1{
+	margin-bottom: -1rem;
+}
+
+.addbtn{
+	margin-top: 1rem;
+	color: white;
+	font-weight: 500;
+	background-color: #ff571e;
+}
+
+@media only screen and (min-width: 576px) and (max-width: 768px){
+	.container{
+		width: 100%;
+		max-width: 100%;
+	}
+	.leftml{
+		margin-left: 6px;
+	}
+	.row{
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.btn-outline-primary{
+		width: 20%;
+		text-align: center;
+	}
+	.bookdes{
+		min-height: 470px;
+	}
+	.addbar{
+		max-width: 100%;
+	}
+}
+
+@media only screen and (max-width: 576px){
+	.container{
+		width: 100%;
+		max-width: 100%;
+	}
+	.leftml{
+		margin-left: 3px;
+	}
+	.row{
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.btn-outline-primary{
+		width: 30%;
+		text-align: center;
+	}
+	.bookdes{
+		min-height: 470px;
+	}
+	.addbartxt{
+		font-size: 0.5rem;
+	}
+	.copyrbar{
+		font-size: 0.5rem;
+	}
+	div .logo{
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.search{
+		width: 100%
+	}
+	
+}
+
