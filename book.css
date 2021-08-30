@@ -3,7 +3,8 @@
 }
 
 #navmenu ul li{
-	display: inline-block;
+	display: inline;
+	text-align: center;
 }
 
 #navmenu ul li a{
@@ -284,6 +285,9 @@
 	.addbar{
 		max-width: 100%;
 	}
+	#navmenu ul li a{
+		margin-left: -20px;
+	}
 }
 
 @media only screen and (max-width: 576px){
@@ -319,5 +323,8 @@
 		width: 100%
 	}
 	
+	.card{
+		margin-left: 25px;
+	}
 }
 
