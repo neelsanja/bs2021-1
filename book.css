@@ -288,6 +288,9 @@
 	#navmenu ul li a{
 		margin-left: -20px;
 	}
+	.und1,.und2,.und3,.und4,.und5,.und6,.und7,.und8{
+		max-width: 100%;
+	}
 }
 
 @media only screen and (max-width: 576px){
@@ -325,6 +328,9 @@
 	
 	.card{
 		margin-left: 60px;
+	}
+	.und1,.und2,.und3,.und4,.und5,.und6,.und7,.und8{
+		max-width: 100%;
 	}
 }
 
